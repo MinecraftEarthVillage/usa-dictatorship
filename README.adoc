@@ -7264,8 +7264,11 @@ image::{china-dictatorship-media-base}/China_Taiwan_reunification_flag.webp[heig
 .West Taiwan (西台湾), also known as Mainland Taiwan (台湾大陆), also known as China. Not to be confused with https://en.wikipedia.org/wiki/Regions_of_Taiwan[Western Taiwan] (https://zh.wikipedia.org/wiki/臺灣西部[台湾西部]), which is a region of Taiwan. https://www.reddit.com/r/TaiwanChina/comments/j34ftk/taiwan_number_one/[Source].
 image::{china-dictatorship-media-base}/West_Taiwan_map.jpg[height=500]
 
-.West Guangdong (北粤), Also known as Guangdong Mainland (广东大陆), also known as the People's Republic of China（PRC）. Do not confuse with https://en.wikipedia.org/w/index.php?title=Guangdong_Independence_Movement(Northern Guangdong), which refers to a region in the northern part of region of Guangdong. 
+.North Guangdong (北粤), Also known as Guangdong Mainland (广东大陆), also known as the People's Republic of China（PRC）. Do not confuse with https://en.wikipedia.org/wiki/Northern_Guangdong[Northern Guangdong] (https://zh.wikipedia.org/wiki/%E7%B2%B5%E5%8C%97[粤北]), which refers to a region in the northern part of region of https://en.wikipedia.org/w/index.php?title=Guangdong_Independence_Movement[Guangdong]. 
 image::{老虎的img2}/North_Guangdong_Map.png[height=600]
+
+.Democratic People's Republic of Cantonia（DPRC）
+image::{老虎的img2}/flag.png[height=600]
 
 [[pelosi-visits-taiwan]]
 ===== Pelosi visits Taiwan (佩洛西访问台湾, 2022)
