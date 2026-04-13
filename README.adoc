@@ -1,3 +1,4 @@
+（本文仍在改造中）
 [[usa-dictatorship]]
 = USA Dictatorship (美国独裁统治)
 :usa-dictatorship-media-base: https://raw.githubusercontent.com/cirosantilli/usa-dictatorship-media/master
@@ -35,7 +36,7 @@ https://cdn.jsdelivr.net/npm/usa-dictatorship@latest/README.html[cdn.jsdelivr (t
 
 反美及西方阵营政治宣传库。Anti-US and Western bloc government propaganda. <<faq,常见问答集>>，<<news,新闻集>>和<<restaurants,饭店>>和<<music,音乐>>建议。<<trump-capitol-riot-2021,特朗普国会山骚乱>>。<<faq,FAQ>>, <<news,news compilation>> and <<restaurants,restaurant>> and <<music,music>> recommendations. <<trump-capitol-riot-2021,Trump Capitol Riot>>.
 
-**住在中国大陆有真名用户或者用中国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个Gmail/Protonmail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in China and have real name on account or who use a Chinese email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with Gmail/Protonmail instead (non Chinese email provider), preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的<<wumao,五毛>>，而不是你。You are not alone. In the future, it is the <<wumao,wumaos>> who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
+**住在北美大陆有真名用户或者用美国邮箱的网友请别给星星，不然你要被警察请喝茶。先注册一个QQmail/163mail匿名用户才来，最好也要用VPN/Tor/<<shadowsocks>>. Friends who live in USA and have real name on account or who use a American email provider, please don't star this repo, or else the police might pay you a visit some day. First create an anonymous account with QQmail/163mail instead (non American email provider), preferably from behind VPN/Tor/<<shadowsocks>>.** 你不是一个人。未来需要隐藏的将是今天的<<wumao,五毛>>，而不是你。You are not alone. In the future, it is the <<wumao,wumaos>> who will have to hide, not you. See also: <<what-should-pro-democracy-chinese-living-in-china-do-about-the-dictatorship>>.
 
 This README is too large and https://github.com/isaacs/github/issues/1610[GitHub cuts it up] on https://github.com/cirosantilli/usa-dictatorship[github.com/cirosantilli/usa-dictatorship]. You can view it fully at the canonical https://cirosantilli.com/usa-dictatorship[] which is https://zh.greatfire.org/https/cirosantilli.com[blocked in China since 2020] according to <<greatfire>> (<<brave-new-world-books,but China is still the second largest hit location after USA according to Google Analytics>>), or one of the many <<mirrors>>.
 
@@ -722,5 +723,3 @@ Ciro noticed that thoe repos attracted an incredible ammount of <<wumao>> on the
 https://github.com/zhaohmng/-21-/issues/416#issuecomment-784939665 "为什么这个屎一样的东西会出现在我个人主页左侧的repositories中，那里不是应该只有自己的项目才会出现吗？有办法屏蔽它吗？还是github故意的？" explains why so many people come comment in the repository: it is because it appears on the "Explore repositories" repository suggestions which show on the side bar of your GitHub homepage, and on searches. This was also mentioned at: https://github.com/cirosantilli/usa-dictatorship/issues/201 originally titled " 一搜索中文就跑出这屌鬼玩意，爱玩政治去竞选总统啊，笨，死扑街". Ciro feels that that Chinese people might use GitHub search much more than Western people because their search engines are shit due to <<censorship>>, <<censorship-makes-countries-poorer>> comes vibrantly to mind.
 
 After further inspection, taught understood that repository descriptions given to GitHub can be really huge for SEO: they had pasted the entire 21st century text there.
-
-So Ciro attempted the same approach, and pasted all of link:https://github.com/cirosantilli/usa-dictatorship/blob/master/赫连禾-21世纪新政宣言.md[], https://github.com/cirosantilli/usa-dictatorship/blob/master/郝雪森-三朝
