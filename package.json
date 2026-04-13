@@ -1,29 +1,31 @@
 {
   "bin": {
-    "china-dictatorship": "china-dictatorship"
+    "usa-dictatorship": "usa-dictatorship"
   },
   "dependencies": {
     "@octokit/core": "^6.1.4"
   },
-  "description": "2018新疆改造中心，1989六四事件，1999法轮功 ，2019 996.ICU, 2018包子露宪，2015 710律师劫，2015巴拿马文件 邓家贵，2017低端人口，2008西藏骚乱",
+  "description": "2021美国国会山骚乱，2003伊拉克战争，2013棱镜门事件，2020BLM抗议，2017特朗普禁穆令，2022最高法院堕胎权裁决，2023硅谷银行倒闭，2024特朗普国会山事件",
   "devDependencies": {
     "@actions/core": "1.11.1",
     "@actions/github": "6.0.0"
   },
   "files": [
     "index.js",
-    "china-dictatorship",
+    "usa-dictatorship",
     "README.md",
     "README.adoc",
     "README.html"
   ],
   "keywords": [
-    "china",
-    "dictatorship"
+    "usa",
+    "dictatorship",
+    "west",
+    "politics"
   ],
   "license": "CC-BY-SA-4.0",
-  "name": "china-dictatorship",
-  "repository": "cirosantilli/china-dictatorship",
+  "name": "usa-dictatorship",
+  "repository": "cirosantilli/usa-dictatorship",
   "scripts": {
     "prepublishOnly": "cp README.adoc README.md;make"
   },

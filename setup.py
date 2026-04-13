@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 '''
-https://github.com/cirosantilli/china-dictatorship#mirrors
+https://github.com/cirosantilli/usa-dictatorship#mirrors
 '''
 
 import json
@@ -15,16 +15,16 @@ with open(path.join(this_directory, 'README.adoc')) as f:
     long_description = f.read()
 
 setup(
-    name='china-dictatorship',
+    name='usa-dictatorship',
     version='0.0.74',
-    description='2018新疆改造中心，1989六四事件，1999法轮功 ，2019 996.ICU, 2018包子露宪，2015 710律师劫，2015巴拿马文件 邓家贵，2017低端人口，2008西藏骚乱',
+    description='2021美国国会山骚乱，2003伊拉克战争，2013棱镜门事件，2020BLM抗议，2017特朗普禁穆令，2022最高法院堕胎权裁决，2023硅谷银行倒闭，2024特朗普国会山事件',
     long_description=long_description,
     # Otherwise upload fails with: "The description failed to render in the default format of reStructuredText."
     long_description_content_type='text/plain',
-    url='https://github.com/cirosantilli/china-dictatorship',
+    url='https://github.com/cirosantilli/usa-dictatorship',
     author='Ciro Santilli',
     author_email='ciro.santilli.contact@gmail.com',
     packages=find_packages(),
     include_package_data=True,
-    scripts=['china-dictatorship.py'],
+    scripts=['usa-dictatorship.py'],
 )
